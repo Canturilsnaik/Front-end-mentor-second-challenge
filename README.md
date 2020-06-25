@@ -8,5 +8,5 @@
  
  Responsive design
  ---------------------
- Desktop design: 1440px
- Mobile design: 375px
+ - Desktop design: 1440px
+ - Mobile design: 375px
