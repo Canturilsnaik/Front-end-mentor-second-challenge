@@ -4,7 +4,7 @@
  I had very trouble with validate form with Javascript but I got it
  
  I made the deploy in Vercel
- link: https://sign-up-challenge.vercel.app/
+ - link: https://sign-up-challenge.vercel.app/
  
  Responsive design
  ---------------------
